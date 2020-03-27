@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b502cd8c0648cf479b8de657caf6b1f",
+    "revision": "999e34cfa03b0c3dcfb47e98eb56072d",
     "url": "/CoronaSahayata.github.io/./index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CoronaSahayata.github.io/./static/css/2.e97aea52.chunk.css"
   },
   {
-    "revision": "440752fa7f37dd6442d4",
+    "revision": "0368eb13cc572874c467",
     "url": "/CoronaSahayata.github.io/./static/css/main.2c9bfd34.chunk.css"
   },
   {
@@ -16,16 +16,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CoronaSahayata.github.io/./static/js/2.c8427b53.chunk.js"
   },
   {
-    "revision": "440752fa7f37dd6442d4",
-    "url": "/CoronaSahayata.github.io/./static/js/main.6d777392.chunk.js"
+    "revision": "0368eb13cc572874c467",
+    "url": "/CoronaSahayata.github.io/./static/js/main.d2385f11.chunk.js"
   },
   {
     "revision": "8d5c56719238ccc740f8",
     "url": "/CoronaSahayata.github.io/./static/js/runtime~main.50afcb71.js"
   },
   {
-    "revision": "6a6463ec608b526c328466466800b16f",
-    "url": "/CoronaSahayata.github.io/./static/media/Information1.6a6463ec.png"
+    "revision": "57471382da132299949e2f0cf10ab4b2",
+    "url": "/CoronaSahayata.github.io/./static/media/Information1.57471382.png"
+  },
+  {
+    "revision": "859dff05bc74f810bb7b7b15b7d78299",
+    "url": "/CoronaSahayata.github.io/./static/media/Information2.859dff05.png"
+  },
+  {
+    "revision": "e376b3a2f3d16e9f0ddf2c7526b7c5e5",
+    "url": "/CoronaSahayata.github.io/./static/media/Information3.e376b3a2.png"
   },
   {
     "revision": "39b2c3031be6b4ea96e2e3e95d307814",
